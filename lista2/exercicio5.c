@@ -21,7 +21,7 @@ int main(void) {
     printf("Nota da prova: ");
     scanf("%f", &prova);
 
-    notafinal = 0.8*prova + 0.2*(teste1 + teste2 + teste3)/ 3;
+    notafinal = 0.8 * prova + 0.2 * (teste1 + teste2 + teste3)/ 3;
     
     printf("Teste 1: %f\n", teste1);
     printf("Teste 2: %f\n", teste2);

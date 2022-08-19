@@ -19,7 +19,7 @@ int main(void) {
 
     printf("Média: %f\n", media);
 
-    if (media >= 5) printf("Aprovado\n");
+    if(media >= 5) printf("Aprovado\n");
     else printf("Reprovado\n");
 
     return 0;

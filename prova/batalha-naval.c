@@ -1,5 +1,5 @@
 /* A simple naval battle game in c made by Hugo Nascimento,  
-Giovanni Ornellas and Julia turazzi as a final project 
+Giovanni Ornellas and Julia Turazzi as a final project 
 in computer programming(UFRJ)
 */
 

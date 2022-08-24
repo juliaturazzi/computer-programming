@@ -1,3 +1,3 @@
-## Computer Programming
+# Computer Programming
 
-Computer Programming assignments and exams in c (UFRJ - first semester).
+Computer programming assignments and exams in c (UFRJ - first semester).
